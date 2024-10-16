@@ -1,0 +1,15 @@
+C:\Users\FedosPopados\source\repos\testing\testing\bin\Debug\testing.exe.config
+C:\Users\FedosPopados\source\repos\testing\testing\bin\Debug\testing.exe
+C:\Users\FedosPopados\source\repos\testing\testing\bin\Debug\testing.pdb
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.csprojAssemblyReference.cache
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.Properties.Resources.resources
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.csproj.GenerateResource.cache
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.csproj.CoreCompileInputs.cache
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.exe
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.pdb
+C:\Users\FedosPopados\source\repos\testing\testing\bin\Debug\Interop.WMPLib.dll
+C:\Users\FedosPopados\source\repos\testing\testing\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\Interop.WMPLib.dll
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.csproj.ResolveComReference.cache
+C:\Users\FedosPopados\source\repos\testing\testing\obj\Debug\testing.TSOAGH.resources
